@@ -1,0 +1,26 @@
+{
+    "name": "c3xpo/webspider",
+    "type": "application",
+    "description": "A simple PHP Web Spider",
+    "keywords": ["spider,scraper"],
+    "homepage": "https://github.com/c3xpo/webspider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "c3xpo",
+            "email": "c3xpo@symfony.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.0"
+    },
+    "autoload": {
+        "psr-4": { "Webspider\\": "Webspider" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
