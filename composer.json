@@ -2,7 +2,7 @@
     "name": "c3xpo/webspider",
     "type": "application",
     "description": "A simple PHP Web Spider",
-    "keywords": ["spider,scraper"],
+    "keywords": ["spider"],
     "homepage": "https://github.com/c3xpo/webspider",
     "license": "MIT",
     "authors": [
