@@ -16,7 +16,7 @@
         "guzzlehttp/guzzle": "^6.0"
     },
     "autoload": {
-        "psr-4": { "Webspider\\": "Webspider" }
+        "psr-4": { "c3xpo\\webspider\\": "src/" }
     },
     "extra": {
         "branch-alias": {
